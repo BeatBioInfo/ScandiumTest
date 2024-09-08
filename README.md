@@ -5,14 +5,19 @@ This project is a responsive resume for Oluwakemisola Beatrice Oshanimi, highlig
 Project Structure
 
 ResumeBuilder.html: The main HTML file containing the structure and content of the resume.
+
 Resumebuilder.css: The CSS file styling the resume (fonts, layout, spacing, colors, etc.).
 
 Features
 
 Responsive Layout: Adjusts to various screen sizes (desktop, tablet, mobile).
+
 Bold Section Separators: Horizontal rules between each section for clean separation.
+
 Easy-to-Navigate Sections: Includes sections for Profile, Skills, Certifications, Experience, Education, and Awards.
+
 Clickable Links: Email, LinkedIn, and GitHub links are provided and can be clicked to navigate or send an email directly.
+
 Consistent Formatting: All sections are uniformly formatted for a professional look.
 
 FIND THE LINK TO THE TEST CASES - https://docs.google.com/spreadsheets/d/1HJdJIJG7LmKfq0EkuAV4_PL1NTtXe6x9/edit?usp=sharing&ouid=107706676732067893366&rtpof=true&sd=true
