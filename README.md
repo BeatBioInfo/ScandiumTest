@@ -1,7 +1,7 @@
-**#Description
+Description
 This project is a responsive resume for Oluwakemisola Beatrice Oshanimi, highlighting her profile, skills, certifications, experience, education, and awards. The resume is developed using HTML and CSS and is styled to be visually appealing and fully responsive across multiple devices
 
-**# Project Structure
+Project Structure
 **index.html: The main HTML file containing the structure and content of the resume.
 ResumeBuilder.css: The CSS file styling the resume (fonts, layout, spacing, colors, etc.).
 
